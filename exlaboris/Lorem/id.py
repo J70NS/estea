@@ -1,0 +1,1 @@
+log = Data_handler('./log.csv', header)
